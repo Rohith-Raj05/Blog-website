@@ -1,2 +1,2 @@
 # Blog-website
-CC project for 6th sem
+This is a cloud computing project that we did for the 6th sem
